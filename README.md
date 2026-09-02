@@ -21,4 +21,4 @@ For security reasons, this tool **never** sends your actual password over the in
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git](https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git)
+   git clone [https://github.com/rzasadoff85] 
